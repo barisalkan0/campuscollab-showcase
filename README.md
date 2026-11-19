@@ -29,7 +29,7 @@ CampusCollab is a mobile app for iOS, Android and the web. It's in active develo
 
 ### Planning
 - Tasks and exams with priorities, an exam countdown and a "next up" card.
-- A focus timer (Pomodoro) with presets or your own lengths, plus a streak.
+- A focus timer (Pomodoro) with presets or your own lengths.
 - A home screen made of widgets you can rearrange by holding one.
 
 ### Campus
